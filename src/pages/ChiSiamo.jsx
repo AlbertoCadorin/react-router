@@ -1,3 +1,3 @@
-const ChiSiamo = () => <div><h1>Chi Siamo</h1></div>
+const ChiSiamo = () => <h1>Chi Siamo</h1>
 
 export default ChiSiamo

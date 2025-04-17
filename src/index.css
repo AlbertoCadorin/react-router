@@ -1,0 +1,67 @@
+/*******
+RESET
+*******/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*******
+FLEX
+*******/
+.d-flex {
+    display: flex;
+}
+
+.jc-flex-end {
+    justify-content: flex-end;
+}
+
+/*******
+PADDING
+*******/
+
+.pd {
+    padding: 10px 20px;
+}
+
+/*******
+MARGIN
+*******/
+.m-top {
+    margin-top: 50px;
+}
+
+/********
+TEX COLOR
+*********/
+.color-tex-black {
+    color: #000;
+}
+
+/********
+CONTAINER
+*********/
+.container-nav {
+    margin: 0 auto;
+    max-width: 1900px;
+}
+
+.container-main {
+    margin: 0 auto;
+    max-width: 1500px;
+}
+
+.active {
+    background-color: aqua;
+}
